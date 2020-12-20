@@ -22,4 +22,5 @@
     -->
     <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">YOUR_KEY_HERE</string>
     <string name="google_maps_key1" templateMergeStrategy="preserve" translatable="false">YOUR_KEY_HERE</string>
+    <string name="google_maps_key2" templateMergeStrategy="preserve" translatable="false">YOUR_KEY_HERE</string>
 </resources>
